@@ -1,4 +1,4 @@
-# Q-pack little brother - the wanQer BETA 
+# Q-pack little brother - the wanQer 
 
 Files are not final! It will be updated with every new informations we will get about it.
 
