@@ -1,11 +1,10 @@
-# Q-pack little brother - the wanQer 
+# Q-pack little brother - the wanQer  MK1.1
 
-Files are not final! It will be updated with every new informations we will get about it.
+Final version! But it can still be updated with every new informations we will get.
 
 A particules thrower on your wrist!  From Ghostbusters Frozen Empire! 
 
 ![Image of wanQer](https://github.com/mr-kiou/the_wanQer/blob/main/wanQer.png)
-SOON?
 
 ## Official facebook group
 If you have any question or need more informations for the assembly, you can go to our official FB group
